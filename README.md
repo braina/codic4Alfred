@@ -6,7 +6,7 @@ workflow to get information from codic
 
 
 # how to use
-[Download](./codic4Alfred.alfredworkflow?raw=ture)
+[Download](./Codic4Alfred.alfredworkflow?raw=ture)
 
 ![ss](./img/sc.png)
 
