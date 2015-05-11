@@ -6,7 +6,8 @@ workflow to get information from codic
 
 
 # how to use
-[download](./codic4Alfred.alfredworkflow?row=true)
+[Download](./codic4Alfred.alfredworkflow?raw=true)
+
 ![ss](./img/sc.png)
 
 1. You type "cod {query}"
