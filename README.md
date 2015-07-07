@@ -1,6 +1,7 @@
 # codic4Alfred
 workflow to get information from codic
-
+##and this is under maintenance.
+now, this do NOT use codic API.
 
 # this version is incompletion 
 
